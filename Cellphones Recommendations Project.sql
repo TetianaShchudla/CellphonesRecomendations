@@ -120,13 +120,13 @@ ORDER BY COUNT(cd.model), AVG(cr.rating)
 
 -- What price of the most expensive Cellphone between the users working in Sales? 
 
-SELECT --TOP 1
-	cd.brand, cd.model, AVG(cd.price) AS price, cu.Industry
+SELECT TOP 1
+       cd.brand, cd.model, AVG(cd.price) AS price
 FROM PhonesRecommendations..CellphonesData AS cd
 JOIN PhonesRecommendations..CellphonesRatings AS cr
 ON cd.cellphone_id =cr.cellphone_id
 JOIN PhonesRecommendations..CellphonesUsers AS cu
 ON cr.user_id = cu.user_id
 WHERE cu.Industry LIKE 'Sales' 
-GROUP BY cd.brand, cd.model, cu.Industry
+GROUP BY cd.brand, cd.model
 ORDER BY AVG(cd.price) DESC
