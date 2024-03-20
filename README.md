@@ -1,3 +1,4 @@
+![image](https://github.com/TetianaShchudla/CellphonesRecomendations/blob/main/image.png)
 # Cellphones Recommendations Project
 
 Hello!
