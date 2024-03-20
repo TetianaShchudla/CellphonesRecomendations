@@ -1,7 +1,6 @@
 ![image](https://github.com/TetianaShchudla/CellphonesRecomendations/blob/main/image.png)
-# Cellphones Recommendations Project
 
-Hello!
+# Welcome to the project in SQL analyzing the recommendation of cellphones
 
 I want to present you the project in SQL Server according to this [Dataset in Kaffle](https://www.kaggle.com/datasets/meirnizri/cellphones-recommendations?resource=download).
 
