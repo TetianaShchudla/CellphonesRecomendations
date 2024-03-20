@@ -1,4 +1,4 @@
-# Cellphones Recommendations Project.sql
+# Cellphones Recommendations Project
 
 Hello!
 
