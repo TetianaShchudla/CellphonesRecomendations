@@ -1,9 +1,15 @@
 ![image](https://github.com/TetianaShchudla/CellphonesRecomendations/blob/main/image.png)
 
-# Welcome to the SQL project of the cellphones recommendations!
+# Cellphone Recommendations - SQL Project
 
-I want to present you the project in SQL Server according to this [Dataset in Kaggle](https://www.kaggle.com/datasets/meirnizri/cellphones-recommendations?resource=download).
+Welcome to the SQL project focused on cellphone recommendations! This project utilizes a dataset from Kaggle to analyze various aspects of cellphones.
+[Link to Dataset in Kaggle](https://www.kaggle.com/datasets/meirnizri/cellphones-recommendations?resource=download).
 
-You can find the results of __Data Exploration__ as well as __Data Cleaning__ for answering on multiple questions regarding price, brand, quantity of users of the highlighted phones etc.
+## Overview
+In this repository, you'll find:
 
-I hope it will be useful!
+- __Data Exploration__: Insights gained from analyzing the dataset.
+- __Data Cleaning__: Processes undertaken to prepare the data for analysis.
+- __Key Questions Addressed__: Insights on price, brand, user quantity, and more for highlighted phones.
+
+I hope you find this project useful! Enjoy exploring the results!
