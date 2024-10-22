@@ -3,6 +3,7 @@
 # Cellphone Recommendations - SQL Project
 
 Welcome to the SQL project focused on cellphone recommendations! This project utilizes a dataset from Kaggle to analyze various aspects of cellphones.
+
 [Link to Dataset in Kaggle](https://www.kaggle.com/datasets/meirnizri/cellphones-recommendations?resource=download).
 
 ## Overview
