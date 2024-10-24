@@ -1,9 +1,6 @@
 ![image](https://github.com/TetianaShchudla/CellphonesRecomendations/blob/main/image.png)
 
-# :iphone:
-:phone:
-:telephone:
-:telephone_receiver: Cellphone Recommendations - SQL Project
+# :iphone: Cellphone Recommendations - SQL Project
 
 Welcome to the SQL project focused on cellphone recommendations! This project utilizes a dataset from Kaggle to analyze various aspects of cellphones.
 
